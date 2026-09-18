@@ -1,0 +1,16 @@
+AI Use Disclosure
+
+I used ChatGPT as a learning and communication support for CHEM 13 Asynchronous Activity No. 1.
+
+The AI tool was used to:
+- Analyze the activity instructions and infographic format.
+- Suggest organic compounds for the activity.
+- Organize the required infographic sections.
+- Help draft concise explanations of chemical properties, uses, safety information, and chemical engineering connections.
+- Improve the wording and visual organization of the infographic content.
+
+I independently reviewed and verified the chemical identities, IUPAC names, molecular formulas, molar masses, structures, functional groups, physical properties, uses, risks, and references using credible scientific sources, including PubChem.
+
+I also verified that the molecular structures correspond to the correct compounds and functional groups.
+
+I understand that I remain responsible for the accuracy, interpretation, design, references, and final content of my submitted infographics.
